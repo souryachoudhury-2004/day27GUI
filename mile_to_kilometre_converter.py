@@ -31,10 +31,4 @@ output = Label(font=("Gabriola", 20, "bold"))
 output.pack()
 
 
-
-
-
-
-
-
 screen.mainloop()
